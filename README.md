@@ -1,6 +1,6 @@
-# Dicee
+# Dice
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![dice-demo](https://user-images.githubusercontent.com/50670255/69177707-0fa56c80-0ad6-11ea-8b3a-202de04717b3.gif)
 
 ## What I learned
 
