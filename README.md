@@ -1,4 +1,4 @@
-# Dice :dice: Flutter
+# Dice :game_die: Flutter
 
 A Las Vegas dice app. You can make the die roll at the press of a button.
 
