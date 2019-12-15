@@ -2,7 +2,9 @@
 
 A Las Vegas dice app. You can make the die roll at the press of a button.
 
-![dice-demo](https://user-images.githubusercontent.com/50670255/69177707-0fa56c80-0ad6-11ea-8b3a-202de04717b3.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50670255/69177707-0fa56c80-0ad6-11ea-8b3a-202de04717b3.gif" alt="Dice"/>
+</p>
 
 ## What I learned
 
